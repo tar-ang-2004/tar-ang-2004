@@ -141,17 +141,59 @@ me = TarangKishor()
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Featured Projects
+## 🔥 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Smart-Incident-Prevention-Agent&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Smart-Incident-Prevention-Agent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Advance-News-Sentiment-Analysis&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Advance-News-Sentiment-Analysis)
+### [🤖 Smart Incident Prevention Agent](https://github.com/tar-ang-2004/Smart-Incident-Prevention-Agent)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Real-Estate-Investment-Advisor&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Real-Estate-Investment-Advisor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification)
+Multi-agent AI system that transforms enterprise incident management by automating detection, analysis, and response workflow.
 
-</div>
+**Tech Stack:** LangChain • CrewAI • Python • Multi-Agent AI
+
+⭐ 3 stars
+
+</td>
+<td width="50%" valign="top">
+
+### [📰 Advanced News Sentiment Analysis](https://github.com/tar-ang-2004/Advance-News-Sentiment-Analysis)
+
+Comprehensive AI-powered sentiment analysis platform combining machine learning and advanced NLP features.
+
+**Tech Stack:** Python • NLP • Machine Learning • Flask
+
+🎯 86% Accuracy | ⭐ 1 star
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [🏠 Real Estate Investment Advisor](https://github.com/tar-ang-2004/Real-Estate-Investment-Advisor)
+
+Full-stack ML-driven Flask app that helps evaluate Indian property listings using XGBoost classifier.
+
+**Tech Stack:** Flask • XGBoost • Python • ML
+
+📊 250K+ Records | ⭐ 1 star
+
+</td>
+<td width="50%" valign="top">
+
+### [🧠 HAViT Vision Transformer](https://github.com/tar-ang-2004/HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification)
+
+Hybrid Attention Vision Transformer combining global self-attention with local convolutional attention for medical images.
+
+**Tech Stack:** Python • Vision Transformers • Deep Learning
+
+⭐ 1 star
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🔥 More Awesome Projects</b></summary>
