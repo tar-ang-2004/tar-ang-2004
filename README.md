@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tarang%20Kishor&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!&fontSize=50&fontAlignY=30&animation=twinkling&fontColor=&fontName=Ubuntu" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+👋+I'm+Tarang+Kishor;AI%2FML+Engineer+%7C+Python+Developer;" alt="Typing SVG" />
 
