@@ -1,174 +1,262 @@
 <div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tarang%20Kishor&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" />
 
-# Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+👋+I'm+Tarang+Kishor;AI%2FML+Engineer+%7C+Python+Developer;Building+Intelligent+Systems+🚀" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=I+am+Tarang+Kishor+!+👋" alt="Typing SVG" />
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
+
+<br>
+
+### 🎯 Passionate AI/ML Engineer | 🐍 Python Expert | 🧠 Deep Learning Enthusiast
+
+[![](https://visitcount.itsvg.in/api?id=tar-ang-2004&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+```python
+class TarangKishor:
+    def __init__(self):
+        self.name = "Tarang Kishor"
+        self.role = "AI/ML Engineer"
+        self.location = "New Delhi, India 🇮🇳"
+        self.education = "B.Tech (pursuing)"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        
+    def get_expertise(self):
+        return {
+            "AI/ML": ["Deep Learning", "Computer Vision", "NLP", 
+                      "Multi-Agent Systems", "MLOps"],
+            "Frameworks": ["TensorFlow", "PyTorch", "scikit-learn",
+                          "LangChain", "CrewAI", "XGBoost"],
+            "Web": ["Flask", "FastAPI", "HTML", "CSS", "JavaScript"],
+            "Data": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            "Tools": ["Git", "Docker", "Jupyter", "VS Code"],
+            "Databases": ["MySQL", "PostgreSQL", "MongoDB"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🔭 Building Smart Incident Prevention AI Agent",
+            "🌱 Learning Generative AI & Advanced NLP",
+            "👯 Contributing to Open Source AI projects",
+            "💡 Exploring Vision Transformers & Multi-Agent AI"
+        ]
+
+me = TarangKishor()
+```
+
+<br clear="right"/>
+
+- 🎓 **Education**: B.Tech student passionate about AI/ML and Software Development
+- 💼 **Experience**: 21+ AI/ML projects ranging from Computer Vision to NLP
+- 🏆 **Achievement**: Built production-ready ML systems with 86%+ accuracy
+- 📚 **Always Learning**: Staying updated with latest AI research and technologies
+- ⚡ **Fun Fact**: I debug code faster than I debug my life! 😄
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Connect With Me
+
 <div align="center">
 
-### 💼 AI/ML Engineer | 🐍 Python Developer | 🧠 Deep Learning Enthusiast
-
-</div>
-
-I am an **AI/ML Engineer** with a strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, **NLP**, and **Multi-Agent AI Systems**. I have built and deployed various production-grade AI solutions ranging from **sentiment analysis platforms** to **intelligent incident prevention systems**. 
-
-I specialize in **data preprocessing**, **model building**, **MLOps**, **web scraping**, and building **full-stack ML applications** with **Flask**. My expertise extends to working with **Transformer architectures**, **XGBoost**, **Neural Networks**, and implementing **custom AI agents** using frameworks like **LangChain** and **CrewAI**.
-
-💡 **Currently exploring**: Multi-Agent AI Systems, Vision Transformers, and Advanced NLP Techniques  
-🔭 **Working on**: Smart AI-powered incident prevention and real-estate advisory systems  
-🌱 **Learning**: Generative AI, MLOps best practices, and Cloud deployment strategies  
-
-<br>
-
-<div align="center">
-
-## 🤝 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tar-ang-2004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tar-ang-2004.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tar-ang-2004.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
 
 <div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
 
 </div>
 
-### 🤖 Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-### 📊 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
 
 ### 🌐 Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🔍 Web Scraping
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
 
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 💾 Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-### ☁️ MLOps & Cloud
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-### 🔧 Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-<br>
+</td>
+</tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" /> Featured Projects
 
 <div align="center">
 
-## 🚀 Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Smart-Incident-Prevention-Agent&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Smart-Incident-Prevention-Agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Advance-News-Sentiment-Analysis&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Advance-News-Sentiment-Analysis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=Real-Estate-Investment-Advisor&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/Real-Estate-Investment-Advisor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tar-ang-2004&repo=HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification&theme=tokyonight&hide_border=true)](https://github.com/tar-ang-2004/HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification)
 
 </div>
 
-### 🤖 [Smart Incident Prevention Agent](https://github.com/tar-ang-2004/Smart-Incident-Prevention-Agent)
-Multi-agent AI system for enterprise incident management automation with human oversight. Built with **LangChain** and **CrewAI**.
+<details>
+<summary><b>🔥 More Awesome Projects</b></summary>
+<br>
 
-### 📰 [Advanced News Sentiment Analysis](https://github.com/tar-ang-2004/Advance-News-Sentiment-Analysis)
-AI-powered sentiment analysis platform achieving **86% accuracy** using ML and advanced NLP.
-
-### 🏠 [Real Estate Investment Advisor](https://github.com/tar-ang-2004/Real-Estate-Investment-Advisor)
-Full-stack ML-driven Flask app with **XGBoost** classifier trained on 250K+ Indian property records.
-
-### 🦅 [Aerial Object Classification](https://github.com/tar-ang-2004/Aerial-Object-Classification-and-Detection)
-Deep learning solution for **Birds vs Drones** classification using **Computer Vision** techniques.
-
-### 🧠 [HAViT - Hybrid Attention Vision Transformer](https://github.com/tar-ang-2004/HAViT-Hybrid-Attention-Vision-Transformer-for-Enhanced-Medical-Image-Classification)
-Custom **Vision Transformer** combining global self-attention with local convolutional attention for medical image classification.
+### 🦅 [Aerial Object Classification & Detection](https://github.com/tar-ang-2004/Aerial-Object-Classification-and-Detection)
+> Deep learning solution for **Birds vs Drones** classification using advanced **Computer Vision** techniques.
 
 ### 💼 [ML-Powered ATS](https://github.com/tar-ang-2004/MLATS)
-Machine Learning powered **Applicant Tracking System** for intelligent resume screening.
+> Machine Learning powered **Applicant Tracking System** for intelligent resume screening.
 
 ### 🏥 [MRI Brain Tumor Classifier](https://github.com/tar-ang-2004/MRI-Classifier)
-Deep Learning model for **MRI Brain Tumor Classification** with high accuracy.
+> Deep Learning model for **MRI Brain Tumor Classification** with high accuracy (⭐2 stars).
 
 ### 💰 [AI-Powered EMI Risk Assessment](https://github.com/tar-ang-2004/AI-Powered-EMI-Risk-Assessment)
-Financial risk assessment platform with **MLflow** experiment tracking for EMI prediction.
+> Financial risk assessment platform with **MLflow** experiment tracking for EMI prediction.
 
-<br>
+### 🐟 [Fish Classification System](https://github.com/tar-ang-2004/Fish_Classification)
+> ML-based system to identify and classify fish species from images.
 
----
+### 🛒 [E-Commerce Delivery Time Prediction](https://github.com/tar-ang-2004/E-Commerce-Delivery-Time-Prediction)
+> Predict delivery times based on distance, traffic, and shipping method.
+
+### 🍔 [Food Wastage Management System](https://github.com/tar-ang-2004/Food-Wastage-Management-System-)
+> Data-driven system connecting food providers with receivers to minimize waste.
+
+### 💬 [Comment Toxicity Classification](https://github.com/tar-ang-2004/Comment-Toxicity-Classification)
+> ML model to classify toxicity in online comments using NLP.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-## 📈 GitHub Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tar-ang-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tar-ang-2004&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=tar-ang-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tar-ang-2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tar-ang-2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tar-ang-2004&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tar-ang-2004&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tar-ang-2004&theme=tokyonight" width="98%" />
 </div>
 
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
 <br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tar-ang-2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Random Dev Quote
 
 <div align="center">
-
-## 💭 Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="28" /> Random Dev Meme
 
 <div align="center">
 
-### 🌟 "Building intelligent systems that make a difference, one model at a time."
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<img src="https://komarev.com/ghpvc/?username=tar-ang-2004&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## 💖 Support My Work
+
+If you like my projects and want to support my work, consider buying me a coffee! ☕
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourprofile)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/tar-ang-2004)
 
 </div>
 
@@ -176,6 +264,16 @@ Financial risk assessment platform with **MLflow** experiment tracking for EMI p
 
 <div align="center">
 
-Made with ❤️ by Tarang Kishor
+### 🌟 Show some ❤️ by starring some of my repositories!
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<br>
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
