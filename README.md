@@ -43,10 +43,10 @@ class TarangKishor:
     
     def current_focus(self):
         return [
-            " Building Smart Incident Prevention AI Agent",
-            " Learning Generative AI & Advanced NLP",
-            " Contributing to Open Source AI projects",
-            " Exploring Vision Transformers & Multi-Agent AI"
+            "Building Smart Incident Prevention AI Agent",
+            "Learning Generative AI & Advanced NLP",
+            "Contributing to Open Source AI projects",
+            "Exploring Vision Transformers & Multi-Agent AI"
         ]
 
 me = TarangKishor()
@@ -188,6 +188,7 @@ Hybrid Attention Vision Transformer combining global self-attention with local c
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
 
